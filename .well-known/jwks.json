@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "smart-auth-2026-04",
+      "n": "0dkovwtYuWScAUKiiTFGVPfn6b-BNzf-yTyzLG67Ye2CTydaoSMuIHiF99CiN1VH0jRIBgtpRB4kAX-0uhU5sBKgK6jsosn7Xo5Vm4odDnIS8kvQ638Txdq8VMxfYXys4rdnQbb7JW2UIWgLdKqi5hVClgNhfhR5LZYDddxWu4RFtVUA3FPyC8vSMI1lpQ7nuGHlT0iA615__jZr_KxbNY5aXGmsbvK1XVbZjKhqzYAuicniYC-73hzLJ-4-xdfjh1V89rrA9XxFqKPI6-Sqm-GF_li0QTECpgTFiD-vhi6CODl_Tl8eXhi2JoCMhwzWv567one-HcYc2l5IkANcXw",
+      "e": "AQAB"
+    }
+  ]
+}
